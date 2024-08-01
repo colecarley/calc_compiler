@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "regex.h": "c",
+        "node.h": "c",
+        "token.h": "c"
+    }
+}
